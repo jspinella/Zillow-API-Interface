@@ -1,0 +1,12 @@
+c:\users\james\source\repos\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.deps.json
+c:\users\james\source\repos\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.dll
+c:\users\james\source\repos\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.pdb
+c:\users\james\source\repos\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.Models.dll
+c:\users\james\source\repos\Zillow\Zillow\bin\Debug\netcoreapp2.1\Zillow.Models.pdb
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.csprojAssemblyReference.cache
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.csproj.CoreCompileInputs.cache
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.AssemblyInfoInputs.cache
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.AssemblyInfo.cs
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.csproj.CopyComplete
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.dll
+c:\users\james\source\repos\Zillow\Zillow\obj\Debug\netcoreapp2.1\Zillow.pdb
